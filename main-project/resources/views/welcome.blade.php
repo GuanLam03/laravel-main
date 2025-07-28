@@ -22,7 +22,7 @@
     <body class="bg-[#FDFDFC] dark:bg-[#0a0a0a] text-[#1b1b18] flex p-6 lg:p-8 items-center lg:justify-center min-h-screen flex-col">
        <ul>
         <li>Main</li>
-        <a href="/sub">Sub</a>
+        <a href="/sub">Sub new branch</a>
        </ul>
     </body>
 </html>
