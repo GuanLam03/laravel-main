@@ -1,3 +1,4 @@
 [submodule "main-project/submodule-repo-new"]
 	path = main-project/submodule-repo-new
 	url = https://github.com/GuanLam03/submodule-repo-new.git
+	branch = v1.1
